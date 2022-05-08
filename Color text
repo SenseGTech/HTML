@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title>My first website</title>
+</head>
+<body style="background-color: black;">
+    <center><h1 style="color: red">Hello!</h1></center>
+    <center><h1 style="color:rgb(5, 240, 232)">Hello!</h1></center>
+    <center><h1 style="color:#28f005">Hello!</h1></center>
+   
+</body>
+</html>
