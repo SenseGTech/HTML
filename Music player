@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title>My first website</title>
+</head>
+<body>
+    <audio controls autoplay muted  loop src="No Turning Back (Clean) - NEFFEX.mp3">
+      <source src="No Turning Back (Clean) - NEFFEX.mp3">
+      <source src="No Turning Back (Clean) - NEFFEX.wav">
+      This browser does not support HTML5 audio
+    </audio>
+    </body>
+</html>
