@@ -14,6 +14,8 @@
  <P>This is <sup>superscript</sup> TEXT</P>
  <P>This is <sup>normal</sup> TEXT</P>
  <P>This is <small>small</small> TEXT</P>
- <P>This is Cool TEXT</P>
+ <P>This is <ins>inserted</ins> TEXT</P>
+ <P>This is <del>deleted</del> TEXT</P>
+ <P>This is <mark>marked</mark> TEXT</P>
 </body>
 </html>
