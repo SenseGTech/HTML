@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title>My first website</title>
+</head>
+<body>
+ <!--HTML text formatting tags-->
+ <P>This is Cool TEXT</P>
+ <P>This is <b>COOL</b>TEXT</P>
+ <P>This is <i>italic</i> TEXT</P>
+ <P>This is <sub>subscript</sub> TEXT</P>
+ <P>This is <sup>superscript</sup> TEXT</P>
+ <P>This is <sup>normal</sup> TEXT</P>
+ <P>This is <small>small</small> TEXT</P>
+ <P>This is Cool TEXT</P>
+</body>
+</html>
