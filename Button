@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title>My first website</title>
+
+
+</head>
+<body >
+    <button onclick="doSomething()" style="background-color:#333333;color:#00FF00;border-radius:5px">
+<p id= "test">Hello</p>
+<script>
+   function doSomething(){
+       document.getElementById("test").innerHTML = "GoodBye"
+   }
+</script>
+</body>
+</html>
